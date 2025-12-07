@@ -12,6 +12,10 @@ It explores the performance of songs, artists, and albums over time, focusing on
 
 **Goal:** Gain insights into listener preferences and understand what makes a song successful on Spotify.
 
+## Dashboard Screenshot
+
+![Dashboard Screenshot](https://github.com/Naveenkumar1667/Spotify-Data-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202025-10-21%20112731.png)
+---
 ---
 
 ## 🧠 Objectives
